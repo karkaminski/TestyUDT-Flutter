@@ -1,0 +1,38 @@
+<svg version="1.1" id="Warstwa_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px" height="512px"
+	 viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+	<foreignObject requiredExtensions="&ns_ai;" x="0" y="0" width="1" height="1">
+		<i:pgfRef  xlink:href="#adobe_illustrator_pgf">
+		</i:pgfRef>
+	</foreignObject>
+	<g i:extraneous="self">
+		<g>
+			<polyline fill="none" stroke="#E8E8E8" stroke-width="20" stroke-miterlimit="10" points="396.18,143.418 501.587,143.418 
+				501.587,62 12.005,62 12.005,143.418 78.307,143.418 			"/>
+			<g>
+				
+					<line fill="none" stroke="#E8E8E8" stroke-width="20" stroke-miterlimit="10" x1="338.237" y1="436.229" x2="338.237" y2="476.557"/>
+				
+					<line fill="none" stroke="#E8E8E8" stroke-width="20" stroke-miterlimit="10" x1="311.06" y1="436.229" x2="311.06" y2="476.557"/>
+				
+					<line fill="none" stroke="#E8E8E8" stroke-width="20" stroke-miterlimit="10" x1="283.884" y1="436.229" x2="283.884" y2="476.557"/>
+			</g>
+			<path fill="none" stroke="#E8E8E8" stroke-width="20" stroke-miterlimit="10" d="M257.076,411.361l51.873-51.878
+				c1.166-1.164,3.057-1.164,4.221,0l51.876,51.878v90.062H257.072L257.076,411.361z"/>
+			
+				<line fill="none" stroke="#E8E8E8" stroke-width="20" stroke-miterlimit="10" x1="346.564" y1="168.075" x2="346.564" y2="264.033"/>
+			
+				<line fill="none" stroke="#E8E8E8" stroke-width="20" stroke-miterlimit="10" x1="275.553" y1="168.075" x2="275.553" y2="264.033"/>
+			<path fill="none" stroke="#E8E8E8" stroke-width="20" stroke-miterlimit="10" d="M311.06,302.908v16.438
+				c-10.499,0-19.015,8.512-19.015,19.014s8.516,19.014,19.015,19.014c10.502,0,19.014-8.512,19.014-19.014"/>
+			<circle fill="none" stroke="#E8E8E8" stroke-width="20" stroke-miterlimit="10" cx="311.059" cy="264.033" r="35.506"/>
+			<circle fill="none" stroke="#E8E8E8" stroke-width="20" stroke-miterlimit="10" cx="311.059" cy="264.033" r="4.477"/>
+			<path fill="none" stroke="#E8E8E8" stroke-width="20" stroke-miterlimit="10" d="M248.328,121.375v46.697h125.465v-46.697
+				c0-9.507-7.779-17.288-17.287-17.288h-90.89C256.108,104.088,248.328,111.868,248.328,121.375z"/>
+			<path fill="none" stroke="#E8E8E8" stroke-width="20" stroke-miterlimit="10" d="M221.465,104.088h-14.449
+				c-8.389,0-15.188,6.8-15.188,15.189v99.286c0,8.389-6.802,15.189-15.189,15.189c-8.39,0-15.189-6.8-15.189-15.189v-99.286
+				c0-8.389-6.801-15.189-15.189-15.189c-8.387,0-15.188,6.8-15.188,15.189v99.286c0,8.389-6.8,15.189-15.189,15.189
+				c-8.389,0-15.188-6.8-15.188-15.189v-99.286c0-8.389-6.801-15.189-15.19-15.189h-14.04"/>
+		</g>
+	</g>
+</svg>
