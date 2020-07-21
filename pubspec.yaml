@@ -56,6 +56,10 @@ flutter:
       - assets/images/logo_nnoka.png
       - assets/images/logo_centrum.png
       - assets/images/logo_centrum_color.png
+      - assets/images/ico_failed.svg
+      - assets/images/ico_passed.svg
+      - assets/images/ico_warning.svg
+      - assets/images/ico_question.svg
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see

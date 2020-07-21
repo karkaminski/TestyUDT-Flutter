@@ -1,5 +1,7 @@
 import 'package:TestyUDT/screens/categories_screen.dart';
 import 'package:TestyUDT/screens/category_details_screen.dart';
+import 'package:TestyUDT/screens/exam_result_details_screen.dart';
+import 'package:TestyUDT/screens/exam_result_summary_screen.dart';
 import 'package:TestyUDT/screens/exam_screen.dart';
 import 'package:TestyUDT/screens/splash_screen.dart';
 import 'package:flutter/material.dart';
@@ -48,29 +50,14 @@ class MyApp extends StatelessWidget {
             bodyText1: TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
             bodyText2: TextStyle(fontWeight: FontWeight.w300),
           )),
-      // home: SplashScreen(),
       routes: {
         '/': (ctx) => SplashScreen(),
         CategoriesScreen.routeName: (ctx) => CategoriesScreen(),
         CategoryDetailsScreen.routeName: (ctx) => CategoryDetailsScreen(),
         ExamScreen.routeName: (ctx) => ExamScreen(),
+        ExamResultSummaryScreen.routeName: (ctx) => ExamResultSummaryScreen(),
+        ExamResultDetailsScreen.routeName: (ctx) => ExamResultDetailsScreen(),
       },
     );
   }
 }
-
-// class MyHomePage extends StatefulWidget {
-//   MyHomePage({Key key, this.title}) : super(key: key);
-
-//   final String title;
-
-//   @override
-//   _MyHomePageState createState() => _MyHomePageState();
-// }
-
-// class _MyHomePageState extends State<MyHomePage> {
-//   @override
-//   Widget build(BuildContext context) {
-//     return SplashScreen();
-//   }
-// }
